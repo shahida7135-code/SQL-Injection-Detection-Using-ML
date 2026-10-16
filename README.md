@@ -181,11 +181,13 @@ This project is developed for educational and learning purposes.
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0130-surrounded-regions) |
+| [0207-course-schedule](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0207-course-schedule) |
 | [1020-number-of-enclaves](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0130-surrounded-regions) |
+| [0207-course-schedule](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0207-course-schedule) |
 | [1020-number-of-enclaves](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/1020-number-of-enclaves) |
 ## Union-Find
 |  |
@@ -197,4 +199,16 @@ This project is developed for educational and learning purposes.
 | ------- |
 | [0130-surrounded-regions](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0130-surrounded-regions) |
 | [1020-number-of-enclaves](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/1020-number-of-enclaves) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
