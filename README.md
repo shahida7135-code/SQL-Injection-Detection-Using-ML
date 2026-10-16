@@ -183,6 +183,7 @@ This project is developed for educational and learning purposes.
 | [0130-surrounded-regions](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
@@ -190,6 +191,7 @@ This project is developed for educational and learning purposes.
 | [0130-surrounded-regions](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/1020-number-of-enclaves) |
 ## Union-Find
 |  |
@@ -206,13 +208,23 @@ This project is developed for educational and learning purposes.
 | ------- |
 | [0207-course-schedule](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0207-course-schedule) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
