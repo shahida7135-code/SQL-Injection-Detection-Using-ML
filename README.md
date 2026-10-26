@@ -177,6 +177,7 @@ This project is developed for educational and learning purposes.
 | ------- |
 | [0130-surrounded-regions](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0130-surrounded-regions) |
 | [1020-number-of-enclaves](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/1020-number-of-enclaves) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -185,6 +186,7 @@ This project is developed for educational and learning purposes.
 | [0210-course-schedule-ii](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/1020-number-of-enclaves) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -193,16 +195,19 @@ This project is developed for educational and learning purposes.
 | [0210-course-schedule-ii](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/1020-number-of-enclaves) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0130-surrounded-regions) |
 | [1020-number-of-enclaves](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/1020-number-of-enclaves) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0130-surrounded-regions) |
 | [1020-number-of-enclaves](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/1020-number-of-enclaves) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
