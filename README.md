@@ -175,6 +175,7 @@ This project is developed for educational and learning purposes.
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0130-surrounded-regions) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -207,6 +208,7 @@ This project is developed for educational and learning purposes.
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0130-surrounded-regions) |
 | [1020-number-of-enclaves](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/1020-number-of-enclaves) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -239,4 +241,8 @@ This project is developed for educational and learning purposes.
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0744-find-smallest-letter-greater-than-target) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
