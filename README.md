@@ -175,6 +175,7 @@ This project is developed for educational and learning purposes.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0130-surrounded-regions) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0540-single-element-in-a-sorted-array) |
@@ -245,4 +246,8 @@ This project is developed for educational and learning purposes.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0054-spiral-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
