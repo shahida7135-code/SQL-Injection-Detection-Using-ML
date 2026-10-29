@@ -182,6 +182,7 @@ This project is developed for educational and learning purposes.
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1020-number-of-enclaves](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/1020-number-of-enclaves) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -191,6 +192,7 @@ This project is developed for educational and learning purposes.
 | [0802-find-eventual-safe-states](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/1020-number-of-enclaves) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -250,4 +252,28 @@ This project is developed for educational and learning purposes.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
