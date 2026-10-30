@@ -221,6 +221,7 @@ This project is developed for educational and learning purposes.
 | [0207-course-schedule](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0802-find-eventual-safe-states) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Topological Sort
 |  |
 | ------- |
@@ -256,6 +257,7 @@ This project is developed for educational and learning purposes.
 |  |
 | ------- |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/3841-palindromic-path-queries-in-a-tree) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -276,4 +278,12 @@ This project is developed for educational and learning purposes.
 |  |
 | ------- |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
