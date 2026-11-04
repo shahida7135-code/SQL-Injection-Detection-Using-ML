@@ -176,6 +176,7 @@ This project is developed for educational and learning purposes.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0130-surrounded-regions) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0540-single-element-in-a-sorted-array) |
@@ -286,4 +287,8 @@ This project is developed for educational and learning purposes.
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
