@@ -179,6 +179,7 @@ This project is developed for educational and learning purposes.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0130-surrounded-regions) |
+| [0217-contains-duplicate](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0217-contains-duplicate) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1020-number-of-enclaves](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/1020-number-of-enclaves) |
@@ -255,6 +256,7 @@ This project is developed for educational and learning purposes.
 | ------- |
 | [0001-two-sum](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -297,4 +299,8 @@ This project is developed for educational and learning purposes.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
