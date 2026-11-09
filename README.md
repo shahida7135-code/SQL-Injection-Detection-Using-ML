@@ -257,10 +257,12 @@ This project is developed for educational and learning purposes.
 | [0001-two-sum](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0242-valid-anagram) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Divide and Conquer
@@ -303,4 +305,5 @@ This project is developed for educational and learning purposes.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shahida7135-code/SQL-Injection-Detection-Using-ML/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
